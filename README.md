@@ -1,1 +1,1 @@
-# Metaplastic-Artificial-Neural-Architecture-
+# Metaplastic-Artificial-Neural-Architecture (MANA)
